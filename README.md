@@ -10,6 +10,29 @@ To compare the difference between CSS and TailwindCss
 
 ---
 
+<br>
+
+# Comparing
+
+## Css
+
+■index.html
+https://github.com/akaka0039/CssVSTail/blob/master/index.html
+■index.css
+https://github.com/akaka0039/CssVSTail/blob/master/index.css
+
+<br>
+<br>
+
+## Tailwind
+
+■tailHtml.html
+https://github.com/akaka0039/CssVSTail/blob/master/src/tailHtml.html
+
+---
+
+<br>
+
 # Starting
 
 ## How to install and start using Tailwind
@@ -35,6 +58,9 @@ https://tailwindcss.com/docs/installation
 <li>Styling and HTML are Mixed</li>
 <li>It Takes Time to Learn</li>
 
+---
+
+<br>
 ・Refer
 https://www.webdesignerdepot.com/2021/09/the-pros-and-cons-of-tailwind-css/
 
